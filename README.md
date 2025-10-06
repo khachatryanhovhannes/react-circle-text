@@ -2,7 +2,7 @@
 
 A lightweight and flexible React component for rendering beautiful **circular text** on a canvas — perfect for profile frames, banners, posters, and more.
 
-![demo](./assets/demo.png)
+![Demo](https://raw.githubusercontent.com/khachatryanhovhannes/react-circle-text/main/assets/demo.png)
 
 ---
 
@@ -91,8 +91,6 @@ npm test
 ## Development
 
 ```bash
-# start playground / dev server
-npm run dev
 
 # run tests
 npm test
