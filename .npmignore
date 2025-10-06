@@ -1,0 +1,8 @@
+src/
+tests/
+assets/
+public/
+vite.config.ts
+tsconfig.app.json
+tsconfig.node.json
+eslint.config.js
