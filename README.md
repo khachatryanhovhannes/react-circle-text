@@ -35,14 +35,14 @@ export default function Example() {
   return (
     <CircularText
       text="Hello Circular World!"
-      radius={150}
+      radius={90}
       fontSize={24}
       fontFamily="Arial"
       fontWeight="bold"
       color="#0070f3"
-      angleDeg={0}
+      angleDeg={90}
       direction="clockwise"
-      flip
+      flip={false}
       align="center"
     />
   )
